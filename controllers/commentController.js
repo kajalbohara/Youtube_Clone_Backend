@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import Comment from "../models/Comment.js";
+import Comment from "../models/Comments.js";
 import User from "../models/User.js";
 import Video from "../models/Video.js";
 
