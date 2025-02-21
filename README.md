@@ -37,7 +37,6 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-$ git clone https://github.com/yourusername/youtube-clone-backend.git
 $ cd youtube-clone-backend
 ```
 
@@ -55,7 +54,7 @@ JWT_SECRET=your_secret_key
 
 ### Run the Backend Server
 ```sh
-$ npm run dev
+$ node server.js
 ```
 
 ## API Routes
@@ -82,7 +81,7 @@ $ npm run dev
 
 ## Usage
 1. Start the backend server (`npm run dev`)
-2. Use Postman or a frontend client to test API endpoints
+2. Use Thunderclient to test API endpoints
 3. Integrate with the frontend for a complete experience
 
 ## Contribution
